@@ -45,4 +45,4 @@ npm start
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📜 License
-MIT License © 2025 Manikandan
+MIT License © 2025 Manikandan S
